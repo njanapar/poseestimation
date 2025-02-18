@@ -21,6 +21,11 @@
   python3 -m venv psestenv
   cd psestenv/Scripts
   activate
+
+  #mac
+  conda create --name <env_name> python=3.x
+  conda activate <env_name>
+
   ```
 - **Upgrade pip**:
   ```bash
