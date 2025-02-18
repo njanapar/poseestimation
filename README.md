@@ -1,4 +1,23 @@
 # yolov7-pose-estimation
+# YOLOv7 for Pose Estimation
+
+Pose estimation is an important task in computer vision, where the objective is to determine the positions of a person's body in an image or video. This can be used in various applications like augmented reality, human-computer interaction, sports analysis, and more.
+
+## Why YOLOv7?
+
+YOLOv7 is one of the latest advancements in the YOLO (You Only Look Once) family of models, optimized for speed and accuracy. It is well-suited for real-time applications and can perform both object detection and pose estimation efficiently.
+
+### Key Features:
+- **Real-Time Performance**: YOLOv7 allows for high-speed processing, making it ideal for applications requiring live feedback.
+- **High Accuracy**: It has demonstrated high accuracy in detecting keypoints and poses, even in complex environments.
+- **Single-Pass Detection**: The algorithm processes the input in one pass, reducing computational overhead and making it faster than multi-stage models.
+
+## Advantages of Using YOLOv7 for Pose Estimation
+
+- **Faster Processing**: YOLOv7's optimized architecture ensures that pose estimation can be performed in real time with minimal delay.
+- **Accuracy and Precision**: It offers high accuracy in detecting multiple keypoints and body parts.
+- **Scalability**: YOLOv7 can be used in a variety of tasks beyond pose estimation, such as object detection, making it highly versatile.
+
 
 ### Steps to Run Code
 
