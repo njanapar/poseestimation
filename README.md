@@ -2,11 +2,7 @@
 
 ### Steps to Run Code
 
-- **Google Colab Users**: First, mount the drive:
-  ```python
-  from google.colab import drive
-  drive.mount("/content/drive")
-  ```
+
 - **Clone the repository**:
   ```bash
   git clone https://github.com/RizwanMunawar/yolov7-pose-estimation.git
