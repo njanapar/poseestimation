@@ -1,4 +1,4 @@
-# yolov7-pose-estimation
+
 # YOLOv7 for Pose Estimation
 
 Pose estimation is an important task in computer vision, where the objective is to determine the positions of a person's body in an image or video. This can be used in various applications like augmented reality, human-computer interaction, sports analysis, and more.
